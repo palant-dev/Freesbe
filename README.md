@@ -1,3 +1,6 @@
+[![Swift Version](https://img.shields.io/badge/Swift-5-brightgreen.svg?style=for-the-badge)](https://swift.org)
+![Made for](https://img.shields.io/badge/Device-iPhone-darkblue.svg?style=for-the-badge)
+
 # Freesbe
 ![githubbanner](https://github.com/palant-dev/Freesbe/assets/113528707/cd2c5710-08c0-4fd4-8a58-fcf6933d430e)
 
